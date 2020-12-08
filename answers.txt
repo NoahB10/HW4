@@ -1,0 +1,5 @@
+1. A small test run of doing the data collection on three links resulted in a fast time of 2 minutes. The results document was already prepared. I opened the first link, ran the find function for Netanyahu and Gantz and then copied the link and the numbers to the results. Since i did this three times and there are always 60 articles, then 20*3 gives 40 minutes of work. Adding an error of about 10% we get approximation of 45 minutes.
+
+2. This was very cool and shows how simple it can be to automate tasks using bash scripts. Another practicle use could be to find deals on a website. This showed how to find things quickly on the internet so with some extra skills it can be used to find and run specific actions. Our idea is to use it for filling out hatzar habriut every day so we dont need to do it when we enter campus.
+
+3. We would add watch to the bash script and change the time to 3600 seconds so it automatically runs every hour. We will be adding these new links to the exisiting results file so at the end of the run the results needs to be uniq sorted to remove duplicates.
